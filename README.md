@@ -1,6 +1,11 @@
-# QuTiP-in-action
-Here you can find a working example of Single-Atom-Lasing using QuTiP from J. R. Johansson 
+# QuTiP in action
+Here you can find a working example code of J. R. Johansson's "Single Atom Lasing using QuTiP" lectures.
 
+**Why?**
+Because learning though example is faster and because I, suppose, that eventualy someone will look for that code.
+
+**How?**
+It's harder to understand Hamiltonian transformations in action when you are reading about them. So here you go, a working example.
 
 ### Installing
 
