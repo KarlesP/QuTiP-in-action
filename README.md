@@ -2,10 +2,10 @@
 Here you can find a working example code of J. R. Johansson's "Single Atom Lasing using QuTiP" lectures.
 
 **Why?**
-Because learning though example is faster and because I believe that coding Quantum Mechanics is better than solving an equation, because you are working through your thoughts and you can understand better the reasoning behind your answer.
+Because learning though example is faster and I believe that coding Quantum Mechanics is better than solving an equation.
 
 **How?**
-It's harder to understand Hamiltonian transformations in action when you are reading about them. So here you go, a working example.
+It's easier to understand Hamiltonian transformations in action than when you're reading about them. So here you go, a working example.
 
 ### Installing
 
